@@ -15,7 +15,6 @@ public interface Example {
 		System.out.println("Como ficou no java 8: ");
 		System.out.println("########");
 		como_ficou_no_java_8();
-		System.out.println("########");
 	}
 
 	void como_era_antes();
